@@ -1,4 +1,4 @@
-# coolblue-data-pipeline-poc
+# ecommerce-data-pipeline-poc
 
 E-commerce data pipeline proof-of-concept demonstrating data engineering skills relevant to Coolblue's Data Engineer role.
 
