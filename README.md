@@ -1,6 +1,6 @@
-# ecommerce-data-pipeline-poc
+# ecommerce-data-pipeline
 
-E-commerce data pipeline proof-of-concept demonstrating data engineering skills relevant to Coolblue's Data Engineer role.
+E-commerce data pipeline proof-of-concept demonstrating production-grade data engineering patterns for retail order and inventory data.
 
 ## Overview
 
