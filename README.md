@@ -1,6 +1,6 @@
 # ecommerce-data-pipeline
 
-E-commerce data pipeline proof-of-concept demonstrating production-grade data engineering patterns for retail order and inventory data.
+An end-to-end e-commerce data platform featuring order ETL, dimensional product warehousing, and automated data quality validation — built to reflect real-world retail data engineering patterns.
 
 ## Overview
 
