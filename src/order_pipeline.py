@@ -15,7 +15,7 @@ import hashlib
 # EXTRACT — Generate synthetic e-commerce order data
 # ---------------------------------------------------------------------------
 def generate_raw_orders(n_orders: int = 500, seed: int = 42) -> pd.DataFrame:
-    """Generate synthetic raw order data simulating a Coolblue-style e-commerce platform."""
+    """Generate synthetic raw order data simulating a mid-size e-commerce platform."""
     random.seed(seed)
 
     categories = ["Laptops", "TVs", "Washing Machines", "Phones", "Headphones",
